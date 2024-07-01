@@ -30,3 +30,6 @@ npm start
 To Visit App:
 
 localhost:3000/ideas
+
+Screenshot of UI:
+![screencapture-localhost-5173-2024-07-01-14_38_12](https://github.com/Anupama98/My_Portfolio/assets/54231804/4508ab50-783d-4f83-ba80-f62ff9e28130)
