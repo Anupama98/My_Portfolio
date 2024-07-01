@@ -1,0 +1,24 @@
+[
+    {
+      "title": "AML KYC",
+      "imageSrc": "projects/project.png",
+      "description": "This Java backend application produces data by creating producer instances and sending records to Kafka topics using the Producer API On the consumer side, the backend application creates consumer instances that subscribe to specific topics and consume records using the Consumer API. ",
+      "skills": ["Java", "Spring Batch","Kafka","JDBC", "MicroServices", "JSP"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "KYC Profile Viewer",
+      "imageSrc": "projects/project.png",
+      "description": "This project involves creating a realtime web application that allows users to view the KYC details following AML(Anti Money Loundering) set of laws and guidelines. ",
+      "skills": ["ReactJS", "Spring Boot", "Rest Api","HTML5", "BootStrap", "CSS"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "This project involves creating a website that displays your work, such as projects, blog posts, and contact information. ",
+      "skills": ["React", "CSS", "JavaScript", "HTML", "Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

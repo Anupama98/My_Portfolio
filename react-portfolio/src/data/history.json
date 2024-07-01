@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Systems Engineer",
+      "organisation": "TCS",
+      "startDate": "Apr, 2021",
+      "endDate": "Dec, 2023",
+      "experiences": ["Worked on Java-based backend application responsible for producing data to Kafka topics and consuming data from Kafka topics",
+"It typically consists of modules for handling data processing, business logic, and interactions with Kafka clusters."],
+      "imageSrc": "history/tcs.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Pyramid Soft sol",
+      "startDate": "Jan, 2019",
+      "endDate": "Mar, 2021",
+      "experiences": [
+        "Implemented MVC architecture using Apache framework Designed the front end using JSP, Tag Libraries and JavaScript. Designed and developed framework components" , 
+        "Involved in designing Spring MVC pattern using Struts framework"
+        
+      ],
+      "imageSrc": "history/pyramid.png"
+    }
+  ]
